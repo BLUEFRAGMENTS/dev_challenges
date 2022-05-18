@@ -1,12 +1,8 @@
-# CHALLENGE 100
+# DEVELOPER CHALLENGES
 
-This repos contain a series of level 100 challenges.
+This repos contain a series of level 100 and level 200 challenges.
 
-To solve one or more challenges, you need to fork the repos to your own GitHub repos, solve the challenges of your preferences and invite https://github.com/blue-challenge-master to the repos.
-
-The challenges should be solved in a language of your preference but either C#, Python or JavaScript is preferred.
-
-If you have any questions or need any help with the challenges, don't hesitate to reach out to challenge@bluefragments.com.
+If you have any questions or need any help with the challenges, don't hesitate to reach out to hello@bluefragments.com.
 
 ## challenge-101
 
@@ -63,16 +59,6 @@ Examples:
 AlphabetIndex("Wow, does that work?") ➞ "23 15 23 4 15 5 19 20 8 1 20 23 15 18 11"  
 AlphabetIndex("The river stole the gods.") ➞ "20 8 5 18 9 22 5 18 19 20 15 12 5 20 8 5 7 15 4 19"  
 AlphabetIndex("We have a lot of rain in June.") ➞ "23 5 8 1 22 5 1 12 15 20 15 6 18 1 9 14 9 14 10 21 14 5"  
-
-# CHALLENGE 200
-
-This repos contain a series of level 200 challenges.
-
-To solve one or more challenges, you need to fork the repos to your own GitHub repos, solve the challenges of your preferences and invite https://github.com/blue-challenge-master to the repos.
-
-The challenges should be solved in a language of your preference but either C# or Python is preferred.
-
-If you have any questions or need any help with the challenges, don't hesitate to reach out to challenge@bluefragments.com.
 
 ## challenge-201
 
